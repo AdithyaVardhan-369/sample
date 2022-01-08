@@ -1,0 +1,44 @@
+.Mainbody{
+background-color: grey;
+}
+.Signin{
+	background-color: green;
+	padding: 19px;
+    text-align: center;
+    font-size: 26px;
+    color: white;
+}
+}
+.bottom{
+	margin:auto;
+	width:80%;
+	text-align: center;
+}
+.inputsec{
+	text-align: center;
+    margin-top: 45px;
+    margin-bottom: 11px;
+}
+.Inputbox{padding: 14px;
+    border-radius: 22px;
+    border: 0;
+    margin-bottom: 10px;
+}
+.Mainb{
+	background: #9bbdbd;
+	width: 500px;
+    margin: auto;
+    height: 100vh;
+}
+}
+.fsec{
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.Signbtn{
+	text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+    background: green;
+}
